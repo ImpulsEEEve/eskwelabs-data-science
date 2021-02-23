@@ -1,6 +1,20 @@
 # Eskwelabs Data Science
 
-# Setup and Run
+A beginner tutorial on data science using Python.
+
+# Quickstart
+* Setup virtual environment
+
+```bash
+virtualenv env
+```
+
+* Activate virtual environment (macOS)
+
+```bash
+source env/bin/activate
+```
+
 * Install dependencies
 
 ```bash
