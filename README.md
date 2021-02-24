@@ -1,6 +1,6 @@
 # Eskwelabs Data Science
 
-A beginner tutorial on data science using Python.
+A tutorial for beginners on data science using Python.
 
 # Quickstart
 * Setup virtual environment
